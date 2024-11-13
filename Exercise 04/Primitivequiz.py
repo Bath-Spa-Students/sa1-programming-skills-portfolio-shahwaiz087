@@ -1,4 +1,4 @@
-#steps
+#steps 
 #1 Create a program that asks the user, "What is the capital of France?" and then waits for their response.
 #2 If they type the correct response ("Paris"), the program should show that the message entered is correct.
 #3 It would print incorrectly if the response was incorrect.
