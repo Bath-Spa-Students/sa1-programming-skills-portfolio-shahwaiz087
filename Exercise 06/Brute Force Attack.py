@@ -1,8 +1,8 @@
 # Establish the system's valid password
-correct_password = "552006"
+correct_password = "12345"
 
 # Decide how many password attempts are permitted at most
-max_attempts = 2
+max_attempts = 4
 
 # Put a counter in place to record the number of attempts
 attempts = 0
