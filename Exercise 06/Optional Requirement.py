@@ -1,5 +1,5 @@
 # Establish the system's valid password
-correct_password = "python123"
+correct_password = "12345"
 
 # Decide how many password attempts are permitted at most
 max_attempts = 5
