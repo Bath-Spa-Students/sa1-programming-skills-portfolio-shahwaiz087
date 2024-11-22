@@ -2,13 +2,13 @@
 # The values are the capitals of the countries, while the keys are their names
 quiz_data = {
     "France": "Paris",
-    "Pakistan": "Islamabad",
-    "UAE": "Abu Dhabi",
-    "Saudi Arabia": "Riyadh",
-    "Turkey": "Istanbul",
-    "Oman": "Muscat",
-    "Russia": "Moscow",
-    "Iran": "Tehran",
+    "Spain": "Madrid",
+    "Germany": "Berlin",
+    "Albania": "Tirana",
+    "Belgium": "Brussels",
+    "Giorgia": "Tbilisi",
+    "Ireland": "Dublin",
+    "Italy": "Rome",
     "Switzerland": "Bern",
     "Greece": "Athens"
 }
